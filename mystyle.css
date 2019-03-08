@@ -1,16 +1,26 @@
 body {
-	background-color: #afef4f;
+	background-image: url("slide-4 (1).jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
 }
 h1 {
-	text-align: center;
-	color: #5e4fef;
+	text-align: left;
+	color: #f29bac;
+}
+h2{
+	color: #4153f4;
 }
 p {
 	color: #ef4f6f;
-	text-align: left;
 	font-size: 20px;
 }
 a{ 
 	color: #8c4fef;
 	font-size: 25px;
+}
+ul {
+	font-size:30px;
+	color: #ef4f6f;
 }
